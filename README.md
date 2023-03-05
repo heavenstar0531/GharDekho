@@ -11,6 +11,15 @@ yarn dev
 # or
 pnpm dev
 ```
+```bash
+npm run prod
+# or
+yarn prod
+# or
+pnpm prod
+```
+
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
